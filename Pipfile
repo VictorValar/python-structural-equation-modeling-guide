@@ -8,6 +8,9 @@ numpy = "*"
 pandas = "*"
 semopy = "*"
 pyreadstat = "*"
+graphviz = "*"
+nbconvert = "*"
+pingouin = "*"
 
 [dev-packages]
 
