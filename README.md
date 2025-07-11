@@ -16,10 +16,10 @@ In order to render the graphs, you will also need to install `graphviz` on your 
 
 All results presented in this repository were validated against the results obtained in SPSS AMOS, you may find the AMOS output files in the `validation/amos_outputs` directory.
 
-- [Practice 0 - Partial Measurement Model](Practice 0/practice_0.ipynb)
-- [Practice 1 – Full Measurement Model CFA](Practice 1/practice_1.ipynb)
-- [Practice 2 – Structural Model: Hypothesis Testing](Practice 2/practice_2.ipynb)
-- [Practice 3 – Multi-Group Analysis](Practice 3/practice_3.ipynb)
+- [Practice 0 - Partial Measurement Model](Practice%200/practice_0.ipynb)
+- [Practice 1 – Full Measurement Model CFA](Practice%201/practice_1.ipynb)
+- [Practice 2 – Structural Model: Hypothesis Testing](Practice%202/practice_2.ipynb)
+- [Practice 3 – Multi-Group Analysis](Practice%203/practice_3.ipynb)
 
 ## Theory
 - Confirmatory Factor Analysis (CFA)
